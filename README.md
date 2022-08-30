@@ -24,6 +24,10 @@ Curso Engenharia de Computação na Universidade Federal do Rio Grande do Norte 
    
 </ul>
 
+### Imagem Projeto
+![layoutGif](https://github.com/PabloSanttana/Arduino-Portao-eletronico/blob/main/image.png)
+
+
   
   
  
