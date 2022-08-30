@@ -20,6 +20,7 @@ Curso Engenharia de Computação na Universidade Federal do Rio Grande do Norte 
     <li>2 Transistores npn para ligar os relés do motor</li>
     <li>3 Resistores 220 ohms</li>
     <li> 1 Display de 7 segmentos, Quantidade de vagas</li>
+    <li> 1 Motor DC</li>
     <li> 1 Arduino Uno</li>
    
 </ul>
